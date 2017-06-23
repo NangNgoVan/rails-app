@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<checkstyle>
+  <file name='app/channels/application_cable/connection.rb'/>
+  <file name='app/channels/application_cable/channel.rb'/>
+  <file name='app/jobs/application_job.rb'/>
+</checkstyle>
